@@ -10,8 +10,6 @@ Welcome to UniMintNFT, a cutting-edge project dedicated to exploring the world o
 - **Minting Process:** A step-by-step guide to minting these NFTs on the blockchain.
 
 
-*Note: Replace the above links with the URLs of your NFT images.*
-
 ## Getting Started
 To get started with this project:
 
