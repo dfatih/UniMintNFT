@@ -9,12 +9,6 @@ Welcome to UniMintNFT, a cutting-edge project dedicated to exploring the world o
 - **Smart Contract Development:** Using Remix, we craft the smart contracts that underpin our NFTs.
 - **Minting Process:** A step-by-step guide to minting these NFTs on the blockchain.
 
-## Gallery
-Here's a glimpse into some of the NFTs we've created:
-
-![NFT Image 1](link-to-your-image-1)
-![NFT Image 2](link-to-your-image-2)
-![NFT Image 3](link-to-your-image-3)
 
 *Note: Replace the above links with the URLs of your NFT images.*
 
