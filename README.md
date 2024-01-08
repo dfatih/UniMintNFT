@@ -50,3 +50,6 @@ put the `Deployed NFT Contract` in address under `config.json`
 
 ### 7. Start frontend
 `$ npm run start`
+
+### Finished Project
+![Image](image.png)
