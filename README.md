@@ -48,7 +48,10 @@ In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
 put the `Deployed NFT Contract` in address under `config.json`
 
-### 7. Start frontend
+### 7. Add Network to Metamask
+Follow this guide to add Testnet in Metamask [HardhatETH](https://medium.com/@kaishinaw/connecting-metamask-with-a-local-hardhat-network-7d8cea604dc6)
+
+### 8. Start frontend
 `$ npm run start`
 
 ### Finished Project
