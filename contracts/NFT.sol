@@ -25,7 +25,7 @@ contract NFT is
     }
 
     // Function to mint a new NFT
-    function mint(string memory tokenURI) public {
+    function mint(string memory tokenURI) public payable{
         // Check if the sent value is at least equal to the cost of minting
         require(msg.value >= cost, "Insufficient funds to mint");
 
